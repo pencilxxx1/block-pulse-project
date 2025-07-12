@@ -1,2 +1,4 @@
 # Files to be ignored
 .env
+# Ignore all files in the data directory
+# but not the .gitignore file itself
