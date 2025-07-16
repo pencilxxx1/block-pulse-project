@@ -1,4 +1,6 @@
 # Files to be ignored
 .env
-# Ignore all files in the data directory
+# Ignore all Account accesskeys
+*.accesskey
 # but not the .gitignore file itself
+!.gitignore
